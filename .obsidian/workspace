@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "85b4e85ccd35daaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1de06c1c5024c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "資料結構/CH1演算法/數學/Fibonacci Number ⭐️⭐️⭐️⭐️⭐️ 2.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7554622ef1623599",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5676c363c14b5b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1922c9796ffe883",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2157332c0c0d5aae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Merge-Sort",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8149c24095b209ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225
+  },
+  "right": {
+    "id": "6579a1751b3c7f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "d666cfd680f9e788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4c21fadc8d4ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "資料結構/CH1演算法/數學/Fibonacci Number ⭐️⭐️⭐️⭐️⭐️ 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a3b6f107fa8b8157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "資料結構/CH1演算法/數學/Fibonacci Number ⭐️⭐️⭐️⭐️⭐️ 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93a33fa805e5c79f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5150991fa4043b51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "資料結構/CH1演算法/數學/Fibonacci Number ⭐️⭐️⭐️⭐️⭐️ 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e1de06c1c5024c5",
+  "lastOpenFiles": [
+    "演算法/演算法.md",
+    "演算法/CH1 Analyzing Algorithm.md",
+    "資料結構/CH1演算法/CH1演算法.md",
+    "資料結構/CH1演算法/算行數例題.md",
+    "資料結構/CH1演算法/數學/Algo定義.md",
+    "演算法/img/截圖 2022-09-15 下午5.27.47.jpg",
+    "演算法/img/截圖 2022-09-15 下午4.40.30.jpg",
+    "截圖 2022-09-14 下午1.43.46.jpg",
+    "演算法/CH2 Divide-and-Conquer.md",
+    "演算法/Merge-Sort.md"
+  ]
+}

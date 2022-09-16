@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "760f42386095b78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a554c10e412fc607",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Second Chance法則.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c96cfc5b8c29c52",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bee3cad854793bd3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ba0f5bf3c1399e56",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ba6df049b29f02b6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d3d85d1507a87800",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "88355e7c482c934c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16688cfadb943b6b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Second Chance法則.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6c882adb194fb7fb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Second Chance法則.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d5ec1ff4e5cfc0b7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Second Chance法則.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a554c10e412fc607",
+  "lastOpenFiles": [
+    "作業系統/CH8 Virtual Memory/Additional Reference Bit Usage.md",
+    "LRU 近似.md",
+    "作業系統/CH8 Virtual Memory/LRU.md"
+  ]
+}

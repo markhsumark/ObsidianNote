@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "/附件",
+  "defaultViewMode": "preview",
+  "readableLineLength": true
+}
